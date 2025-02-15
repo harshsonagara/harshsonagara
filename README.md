@@ -1,35 +1,42 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Harsh+Sonagara;Full+Stack+MERN+Developer;Passionate+About+Web+and+Tech;Always+Learning+New+Things!">
-</p>
+# 👋 Hi, I'm harshsonagara!
 
-<!-- Cool Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
-</p>
+Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about building dynamic, high-performance web applications. I specialize in creating smooth animations and immersive 3D experiences using **GSAP** and **React Three Fiber (React3.js)**.
+
+---
 
 ## 🚀 About Me
-💡 **A passionate Full Stack Developer specialized in MERN Stack & Tailwind CSS.**  
-🌍 **Building high-performance, scalable, and responsive web applications.**  
-🚀 **Exploring Next.js, TypeScript, and AI-powered applications.**  
-💬 **Ask me about JavaScript, React, Node.js, and more!**  
-📫 **Reach me at: [Email](harshsonagara@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harsh-sonagara-9945b2285/)**  
+- 💻 Full-stack developer specializing in **MongoDB, Express.js, React.js, and Node.js**.
+- 🎨 Enthusiastic about **web animations** and **3D experiences** using **GSAP & React Three Fiber**.
+- 🌟 Passionate about crafting **efficient, scalable, and visually appealing applications**.
+- 📚 Always learning new technologies to enhance my development skills.
 
 ---
 
-## 🎨 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" alt="Tech Stack" />
+## 🔹 Tech Stack & Skills  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode,scss" alt="Tech Stack" />
 </p>
 
----
+### 🚀 Core Technologies  
 
-## 📊 GitHub Stats & Contributions  
+#### 🎨 Frontend:  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind" alt="Frontend Stack" />
+</p>
+
+#### 🛠️ Backend:  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Stack" />
+</p>
+
+
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsonagara&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsonagara&theme=tokyonight&hide_border=true" width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=harshsonagara&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 </p>
-
 <!-- GitHub Contributions Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsonagara&theme=react-dark&hide_border=true" width="95%"/>
@@ -37,27 +44,17 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshsonagara&theme=matrix&no-frame=true&column=6">
-</p>
+## 💋 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsh-sonagara-9945b2285/)
+
+**Email:** harshsonagara0@gmail.com
 
 ---
 
-## 🔥 Featured Projects  
-🎯 **[Project 1](#)** – A powerful MERN Stack app  
-💻 **[Project 2](#)** – A fully responsive Tailwind website  
-🚀 **[Project 3](#)** – A JavaScript game or app  
+## 🎉 Fun Fact
 
----
+💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-## 🌟 Fun Facts  
-🎮 **Gaming enthusiast & tech explorer**  
-🎶 **Loves music & experimenting with AI**  
-🍕 **Pizza over everything!**  
+Thanks for stopping by! Feel free to check out my repositories and connect with me. Happy coding! 🚀
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p>
