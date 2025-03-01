@@ -30,13 +30,22 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Stack" />
 </p>
 
+---
 
+## 🏆 LeetCode Progress  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Harsh_Sonagara?theme=dark" alt="LeetCode Stats">
+</p>
 
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsonagara&theme=tokyonight&hide_border=true" width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=harshsonagara&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 </p>
+
 <!-- GitHub Contributions Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsonagara&theme=react-dark&hide_border=true" width="95%"/>
@@ -44,17 +53,16 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
 
 ---
 
-## 💋 Connect With Me
+## 💬 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsh-sonagara-9945b2285/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsh-sonagara-9945b2285/)  
 
-**Email:** harshsonagara0@gmail.com
+**📧 Email:** harshsonagara0@gmail.com  
 
 ---
 
-## 🎉 Fun Fact
+## 🎉 Fun Fact  
 
-💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
+💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 
 Thanks for stopping by! Feel free to check out my repositories and connect with me. Happy coding! 🚀
-
