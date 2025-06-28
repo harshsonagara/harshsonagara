@@ -1,4 +1,4 @@
-# 👋 Hi, I'm harshsonagara!
+# 👋 Hi, I'm harsh sonagara!
 
 Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about building dynamic, high-performance web applications. I specialize in creating smooth animations and immersive 3D experiences using **GSAP** and **React Three Fiber (React3.js)**.
 
