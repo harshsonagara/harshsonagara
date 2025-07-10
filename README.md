@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
 
 #### 🎨 Frontend:  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Stack" />
 </p>
 
 #### 🛠️ Backend:  
