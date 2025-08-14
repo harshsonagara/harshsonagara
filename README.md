@@ -32,6 +32,13 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
 
 ---
 
+## 🏅 Profiles & Achievements  
+
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=HackerRank&style=for-the-badge)](https://www.hackerrank.com/profile/harshsonagara0)  
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=LeetCode&style=for-the-badge)](https://leetcode.com/Harsh_Sonagara)  
+
+---
+
 ## 🏆 LeetCode Progress  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Harsh_Sonagara?theme=dark" alt="LeetCode Stats">
